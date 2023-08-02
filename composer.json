@@ -1,6 +1,7 @@
 {
     "name": "ren/protocolized-server",
     "description": "Simple protocolized server interface",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
