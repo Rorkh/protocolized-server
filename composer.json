@@ -3,6 +3,7 @@
     "description": "Simple protocolized server interface",
     "license": "MIT",
     "type": "library",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Ren\\ProtocolizedServer\\": "src/"
